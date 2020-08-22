@@ -1,0 +1,9 @@
+Cursor		0 B
+Enter		1 T
+Esc		2 Y
+LeftClick	3 F
+WheelClick	4 C
+RightClick	5 I
+ScrollUp	6 D
+ScrollDown	7 V
+Spacebar	8 S

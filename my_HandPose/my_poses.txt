@@ -1,0 +1,9 @@
+Cursor
+Enter
+Esc
+LeftClick
+WheelClick
+RightClick
+ScrollUp
+ScrollDown
+Spacebar
