@@ -17,9 +17,14 @@ Used Tensorflow API for training and detecting my hand. Made the hand dataset by
 
 By cam image, detect my hand first, and classify hand shape. Mouse pointer is tracking my hand and each hand shape have individual input command, like left click, right click, esc, etc. With those command, perform virtual mouse or keyboard input. For these automatics, I used python library, pyautogui.
 
+**My hand shape commands:** 
+
+![txt](/my_recognize_handpose/images/txt.jpg)
+![commands](/my_recognize_handpose/images/my_handpose.png)
+
 ---
 
-![video](https://github.com/msjun23/hand-mouse/blob/master/my_HandPose/Results/4.mp4)
+![video](/my_HandPose/Results/4.gif)
 
 ---
 
